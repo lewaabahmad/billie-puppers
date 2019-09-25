@@ -1,13 +1,13 @@
-.App {
+.pupper-app {
   text-align: center;
 }
 
-.App-logo {
+.billie-pupper {
   height: 40vmin;
 }
 
-.App-header {
-  background-color: #282c34;
+.pupper-app-wrapper {
+  background-color: pink;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -17,6 +17,23 @@
   color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+.pupper-app-wrapper p {
+  position: relative;
+  top: 100px;
+}
+
+.color-0 {
+  color: #8093FF;
+}
+
+.color-1 {
+  color: #FF502C;
+}
+
+.color-2 {
+  color: #FF9472;
+}
+
+.color-3 {
+  color: #FF91FF;
 }

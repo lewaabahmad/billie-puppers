@@ -1,0 +1,1 @@
+export const OverlayText = "We ❤ our pups!"
